@@ -20,7 +20,7 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Commands", url =https://telegra.ph/Commands-10-01"
+                        "Commands", url ="https://telegra.ph/Commands-10-01"
                     )],[
                     InlineKeyboardButton(text = "Creator", url = "https://t.me/MiNaTOx_xNaMiKaZe"), InlineKeyboardButton(text = "Repo", url = "https://github.com/Ninematsuno/Twelve")]
             ]
