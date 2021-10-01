@@ -49,8 +49,8 @@ I recommend deploying on railways, because it lags relatively less than heroku (
 
 ---
 
-## Credits
 
-- [Zack-Bloodshot](https://github.com/Zack-Bloodshot) A.K.A [A B H I](https://t.me/DontKnowWhoRU): Main Dev
-- [MarshalX](https://github.com/MarshalX) for [tgcalls](https://github.com/MarshalX/tgcalls)
-- [delivrance](https://github.com/delivrance) for [Pyr
+
+
+- [MarshalX](https://github.
+
