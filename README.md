@@ -1,4 +1,4 @@
-<h1>Ohto Ai Plays <a href='https://github.com/tgcalls/awesome-tgcalls'><img src='https://awesome.re/mentioned-badge-flat.svg'></a></h1>
+<h1>Twelve plays <a href='https://github.com/tgcalls/awesome-tgcalls'><img src='https://awesome.re/mentioned-badge-flat.svg'></a></h1>
 
 <p align='center'>
 <img src="https://telegra.ph/file/ccd46df4c0bac9f07b989.jpg" alt="ohto-ai-kawaaii-pic" border="0" widht='223.5' height='176'>
