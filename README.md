@@ -1,7 +1,7 @@
 <h1>Ohto Ai Plays <a href='https://github.com/tgcalls/awesome-tgcalls'><img src='https://awesome.re/mentioned-badge-flat.svg'></a></h1>
 
 <p align='center'>
-<img src="https://i.ibb.co/R0Vh3rW/IMG-20210808-131839-removebg-preview.png" alt="ohto-ai-kawaaii-pic" border="0" widht='223.5' height='176'>
+<img src="https://telegra.ph/file/ccd46df4c0bac9f07b989.jpg" alt="ohto-ai-kawaaii-pic" border="0" widht='223.5' height='176'>
 </p>
 
 An awesome, deployable, simple, non spammy, auth-system enabled, multi-chat music bot!
@@ -53,4 +53,4 @@ I recommend deploying on railways, because it lags relatively less than heroku (
 
 - [Zack-Bloodshot](https://github.com/Zack-Bloodshot) A.K.A [A B H I](https://t.me/DontKnowWhoRU): Main Dev
 - [MarshalX](https://github.com/MarshalX) for [tgcalls](https://github.com/MarshalX/tgcalls)
-- [delivrance](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
+- [delivrance](https://github.com/delivrance) for [Pyr
